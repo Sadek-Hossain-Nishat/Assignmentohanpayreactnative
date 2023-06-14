@@ -2,7 +2,6 @@ import React, {useState} from 'react';
 import {View, StyleSheet, TouchableOpacity, Modal} from 'react-native';
 import {Text} from 'react-native';
 import GlassIcon from '../assets/glassicon';
-import WebView from 'react-native-webview';
 
 const FirstScreenFlatList = ({
   themename = 'Default Dark',
